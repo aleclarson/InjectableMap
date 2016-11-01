@@ -8,5 +8,13 @@
   "scripts": {
     "build": "coffee-build -v 1.11.x -b -o js src",
     "postinstall": "npm run build"
+  },
+  "dependencies": {
+    "NamedFunction": "aleclarson/NamedFunction#2.0.1",
+    "assertType": "aleclarson/assertType#2.0.0",
+    "bind": "aleclarson/bind#1.0.0",
+    "isDev": "aleclarson/isDev#2.0.0",
+    "setType": "aleclarson/setType#1.0.0",
+    "sliceArray": "aleclarson/sliceArray#1.0.0"
   }
 }
