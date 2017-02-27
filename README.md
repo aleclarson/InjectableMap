@@ -1,5 +1,5 @@
 
-# InjectableMap v1.0.0
+# InjectableMap v1.1.0
 
 - Create the injectable map in `src/injectable.coffee`:
 
