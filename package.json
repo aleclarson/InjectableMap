@@ -1,0 +1,13 @@
+{
+  "name": "InjectableMap",
+  "version": "1.1.1",
+  "main": "js/InjectableMap",
+  "dependencies": {
+    "NamedFunction": "aleclarson/NamedFunction#2.0.1",
+    "assertType": "aleclarson/assertType#2.0.2",
+    "bind": "aleclarson/bind#1.0.3",
+    "isDev": "aleclarson/isDev#2.0.0",
+    "setType": "aleclarson/setType#1.0.0",
+    "sliceArray": "aleclarson/sliceArray#1.0.0"
+  }
+}
